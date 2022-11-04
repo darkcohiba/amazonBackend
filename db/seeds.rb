@@ -14,6 +14,7 @@ Size.create(size_name: nil, size_number: 8)
 Size.create(size_name: nil, size_number: 9)
 Size.create(size_name: nil, size_number: 10)
 Size.create(size_name: nil, size_number: 11)
+
 puts 'clothes sizes'
 
 Size.create(size_name: "extra-small", size_number: nil)
